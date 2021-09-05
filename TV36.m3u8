@@ -1,4 +1,8 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630852980/ei/FIM0YcW-Dq_K2roPnKaV8A4/ip/123.192.131.77/id/6bVfKReqRlY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/7880/mh/_M/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630831223/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhALPwNHhszlvJdGQaz0vfC2mXy2_VVijeBgrIJz0z6bGyAiBarnSQnkWWNkKmNnxu26avfXNVZfEVBsK9p8dz_66c9w%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgayfgVPD4XH44U9dvnoC2rKLOioBX01ThI9xmTyfO8cACIGenPU24vCzqbQRdh4PQD3Hysg3OAZBQPaP6m_g9E0gU/playlist/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:05-Sep-2021 (18:45:20.738552)
+#EXTINF:5.0,
+https://manifest.googlevideo.com/api/manifest/dash/expire/1630860319/ei/v580Yfu0IMmfqQHdxYTABw/ip/123.192.131.77/id/6bVfKReqRlY.1/source/yt_live_broadcast/requiressl/yes/tx/24027708/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/force_finished/1/vprv/1/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Cas%2Cforce_finished%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYxnoYMmdPqNFIwOR0LO-zUX_2O0reqC5N1DfevsAdPICIAwG5cf4m9dRhiGvjA60VSdYW1KoM1tqn0ehuZxpZTha
