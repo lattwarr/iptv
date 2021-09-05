@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:05-Sep-2021 (11:33:09.885031)
-#EXTINF:5.0,
-https://r2---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1630834389&ei=dTo0Ydm0CNXT2roP3aaauAE&ip=123.192.131.77&id=o-AAT1hJaUf4qd-H13OP_diAem3ZPAeew81bfYxqh6XClX&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=YQ&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xs&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=1093750&vprv=1&mime=video%2Fmp4&ns=vRMGLr65nGrXSNA7oE60bcIG&gir=yes&clen=2790385374&dur=7080.006&lmt=1630743300083218&mt=1630812524&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=7316222&n=nA9dqSw6cCbYm-i&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgT_nImBs1_nYJaPbrA5en5ZZO8CmjZs1vCmy9Hf1GHOYCIQCGmP5WJD7pIC9I8X19FMOQ-n9q0bORR5YEiCpST9_wwA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgDPwj7Vk4KbPhvqBwUHXSsMsL4Pg2zPz9C1kXXbxcK5oCIDd1YoDMYDqZsjbaxOywzfYTgl7bcIGJNGgtu_iH_AZt
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630847257/ei/uWw0YbGPMNXT2roP3aaauAE/ip/123.192.131.77/id/6bVfKReqRlY.1~45357554/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/8410/mh/Y1/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630824743/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgIDaAenbL8iWYVTguUpcU-J6_JsGX4jPgHKuz_TqtGaICIQDJGtBT-BmzqdB19T7Z4giyU0bPcbPYrIL1GNNa2OmJxQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgQJHgkRetQIVyrfH0mefnPoc7zIJsT3XsWQx4p-71d9ECIGdepsHo-Ern553iFeCsIphEMZWidSEbtU6E2Tc8GRCu/playlist/index.m3u8
