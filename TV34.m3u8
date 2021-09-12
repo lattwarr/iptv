@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:12-Sep-2021 (14:55:49.162070)
-#EXTINF:5.0,
-https://r2---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1631451356&ei=fKQ9YYCUHeaI1d8Px6uB6AQ&ip=123.192.131.77&id=o-APk05kwp9ggJ6oSDwuqiHt_oB813A9xXyi6XjVsTvVWC&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=o_&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xk&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&gcr=tw&initcwndbps=998750&vprv=1&mime=video%2Fmp4&ns=SVKdXxuqP3zjausylO2Xn6AG&gir=yes&clen=695204442&dur=2812.843&lmt=1631394010692177&mt=1631429335&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5535432&n=RUm7ywl0IskA9ID9&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAMZknB6fIRAwuKwiLj_xf7Lc7kDbxOkAUJspOgrlljwXAiEAp_cfYYFPw1SKkgoeeuME964WjL6ev6j-r71hRC5ZPCQ%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgHxQcjXvGiARY_UgKGe7CVpRb8azcF8WUEGFAxp1Qy7ICIHUGmOwr3Bvu5MmZRqfMfQysa4Fi7jDffruXNtlHPHBp
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1631470546/ei/cu89Ye2hLMWsigbosp-oCQ/ip/123.192.131.77/id/E8wo9MteVJ4.0/itag/96/source/yt_premiere_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/tw/vprv/1/playlist_type/DVR/initcwndbps/6220/mh/zq/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466588/mt/1631448515/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAPR8P49JBUmzL8HIQn4yEq4nhklnXRcg9fJTiVwED4xQAiAeVHCf4fAxYGiYJcRMHGoBD6yNWFxjkJE2ruyDwt8a4g%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgORm2DHNkUk_myXzq6nmzeS4_4hj8Zw9fuDo0P-MD0wUCIQDNKWF8n5xdcN6RCsysijdsF0744t77L61XPh6_ZZUL1g%3D%3D/playlist/index.m3u8
