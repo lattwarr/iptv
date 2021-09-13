@@ -1,4 +1,8 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1631470546/ei/cu89Ye2hLMWsigbosp-oCQ/ip/123.192.131.77/id/E8wo9MteVJ4.0/itag/96/source/yt_premiere_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/tw/vprv/1/playlist_type/DVR/initcwndbps/6220/mh/zq/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466588/mt/1631448515/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAPR8P49JBUmzL8HIQn4yEq4nhklnXRcg9fJTiVwED4xQAiAeVHCf4fAxYGiYJcRMHGoBD6yNWFxjkJE2ruyDwt8a4g%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgORm2DHNkUk_myXzq6nmzeS4_4hj8Zw9fuDo0P-MD0wUCIQDNKWF8n5xdcN6RCsysijdsF0744t77L61XPh6_ZZUL1g%3D%3D/playlist/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:13-Sep-2021 (08:47:29.479767)
+#EXTINF:5.0,
+https://r1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1631515657&ei=qZ8-YeD_JpChlQSuxIu4Ag&ip=123.192.131.77&id=o-AMzfN89KXOVi_9pZ5vdsIx9MmFTWQoWQd8XXc_3_Xtmn&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=k6&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xs&ms=au%2Crdu&mv=m&mvi=1&pl=24&gcr=tw&initcwndbps=811250&vprv=1&mime=video%2Fmp4&ns=wHQx-sM9Vksgo2vKaV9iZRoG&gir=yes&clen=566450828&dur=2635.499&lmt=1631480426476254&mt=1631493651&fvip=7&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5535432&n=NOrE8LT5NRpJsQ22&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAN9wI5VHUPXMcfNtcX920WlgnnKq-W4E1jILHiyRUdz7AiACbQpUnkn9Be4rz75KHPMmlyj2GifnADcmSI-zBGD8fA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgU-l92e0zC75_6wQ3Dj7NBWwtoju6qvm890eYmlm7kPECIQD0YcTyFZcCEKFcpQINU3K_HkKSuxDT4h6xonmEW27seg%3D%3D
