@@ -1,4 +1,8 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1631547795/ei/Mx0_YdGGKIye4AK8s5-oDA/ip/123.192.131.77/id/zW5_ENxfIA0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/9430/mh/L3/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/2/pl/24/shardbypass/yes/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466587/mt/1631525792/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAM9IgZxoRsftZUpvQC4phx4XFivwBJixxcW0pB2rcwEoAiEA0j5aSyHiwTofc4FldPFgAW7KvXoyItGzNMhnqEINdA4%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,shardbypass/lsig/AG3C_xAwRgIhAPaVsGw0klAC5szujsoEzgAq2ze4YJUyq0zW1uMmjfV1AiEAp0vk1HVU9jwmwH6lJDNqywRBGnbLUTB544j4M5N0RiA%3D/playlist/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:Thu Sep 23 2021 16:39:28 GMT+0800 (台北標準時間)
+#EXTINF:5.0,
+undefined
